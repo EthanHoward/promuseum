@@ -14,6 +14,7 @@ function __World({children}: __Props): JSX.Element {
     <OrbitControls 
         autoRotate={true}
         autoRotateSpeed={1.0}
+        enablePan={true}
     />
 
     {children}

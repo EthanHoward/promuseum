@@ -18,3 +18,11 @@ export {
 export {
     __CustomVertexGeometry as CustomVertexGeometry
 } from '@/components/Geometries/CustomVertexGeometry';
+
+export {
+    __Museum as MuseumGeometry
+} from '@/components/Geometries/Museum';
+
+export {
+    __IceCube as IceCube
+} from '@/components/Geometries/IceCube';
